@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "checkParentheses": "node checkParentheses.js",
+    "groupBy": "node groupBy.js",
+    "invert": "node invert.js",
+    "db": "node db.js"
+  }
+}
